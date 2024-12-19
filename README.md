@@ -6,13 +6,4 @@ My interests are broad and stretch well beyond the realm of robotics. I am unend
 
 # Tech Stack
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/github/gray" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/python" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/numpy" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/opencv" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/scipy" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/arduino" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/raspberrypi" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/latex" />
-
+<img height="32" width="32" src="https://cdn.simpleicons.org/github/gray" /><img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" /><img height="32" width="32" src="https://cdn.simpleicons.org/python" /><img height="32" width="32" src="https://cdn.simpleicons.org/numpy" /><img height="32" width="32" src="https://cdn.simpleicons.org/opencv" /><img height="32" width="32" src="https://cdn.simpleicons.org/scipy" /><img height="32" width="32" src="https://cdn.simpleicons.org/arduino" /><img height="32" width="32" src="https://cdn.simpleicons.org/raspberrypi" /><img height="32" width="32" src="https://cdn.simpleicons.org/latex" />
