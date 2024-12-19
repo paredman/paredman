@@ -2,7 +2,7 @@
 
 I am currently pursuing my master's degree in robotics engineering at the University of Michigan, anticipated graduation May 2025. Previously, I completed my bachelor's degree in electrical engineering, also from the University of Michigan.
 
-My interests are broad and stretch well beyond the realm of robotics. I am unendingly fascinated by physics and mathematics, which is what got me into EE and robotics in the first place. Nowadays, I focus largely on controls, as I find that fields offers an exciting variety of problems in all aspects of engineering. In a nutshell controls engineers, find a process, understand what governs its evolution, and find the levers available to control it &mdash; and that sounds just fine to me!
+My interests are broad and stretch well beyond the realm of robotics. I am unendingly fascinated by physics and mathematics, which is what got me into EE and robotics in the first place. Nowadays, I focus largely on controls, as I find that fields offers an exciting variety of problems in all aspects of engineering. In a nutshell, controls engineers identify a process, understand what governs its evolution, and find the levers available to control it &mdash; and that sounds just fine to me!
 
 If you're interested, check out my [LinkedIn](https://linkedin.com/in/peter-redman1), and feel free to reach out to me there.
 
